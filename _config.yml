@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Chi-Kai Hsieh"
-  avatar           : "profile.png"
+  avatar           : "IMG_820322_2 (1).jpg"
   bio              : "email:mee29616243@gmail.com"
   location         : #"Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?hl=zh-TW&user=h5KGBswAAAAJ&view_op=list_works&gmla=AJsN-F6O_fxddt28r7orTO_oPe5vg33mNOMNyBjZlJgyR5xfQJfuBhisRFeJXmU_8mIBkBqeRcXXozm0VyEyyusuRoaAJjikuFVmDzUqeUQQedjsELUdH7c"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
