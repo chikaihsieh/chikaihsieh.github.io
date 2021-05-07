@@ -30,5 +30,7 @@ Honors & Award
 
 Publications
 ======
+* T. -Y. Wang, F. -T. Chien and C. -K. Hsieh, "Collaborative Sampling and Binary Local Output Generation for Distributed Blind Cooperative Spectrum Sensing," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2021.3077061.
 * Chi-Kai Hsieh, Kun-Lin Chan, and Feng-Tsun Chien. "Energy-Efficient Power Allocation and User Association in Heterogeneous Networks with Deep Reinforcement Learning." Applied Sciences 11.9 (2021): 4135.
 * T. -Y. Wang, F. -T. Chien and C. -K. Hsieh, "A New Sampling Scheme for Distributed Blind Spectrum Sensing Using Energy Detectors," ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020, pp. 5250-5254, doi: 10.1109/ICASSP40776.2020.9054544.
+
