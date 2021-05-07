@@ -15,7 +15,7 @@ E-mail : mee29616243@gmail.com
 
 Education
 ======
-* 2019 ~ : Ph.D. degree (Electronics Engineering), National Chiao-Tung University, Taiwan
+* 2019 ~ : Ph.D. degree (Electronics Engineering), National Yang Ming Chiao-Tung University, Taiwan
 * 2016~2019 : B.S. degree (Electronics Engineering), National Chiao-Tung University, Taiwan
 * 2015~2016: B.S. degree (Mathematics), National Tsing-Hua University, Taiwan 
 
@@ -30,5 +30,5 @@ Honors & Award
 
 Publications
 ======
-*CK Hsieh, KL Chan, FT Chien"Energy-Efficient Power Allocation and User Association in Heterogeneous Networks with Deep Reinforcement Learning," Applied Sciences 11 (9), 4135
-*T. -Y. Wang, F. -T. Chien and C. -K. Hsieh, "A New Sampling Scheme for Distributed Blind Spectrum Sensing Using Energy Detectors," ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020, pp. 5250-5254, doi: 10.1109/ICASSP40776.2020.9054544.
+* Chi-Kai Hsieh, Kun-Lin Chan, and Feng-Tsun Chien. "Energy-Efficient Power Allocation and User Association in Heterogeneous Networks with Deep Reinforcement Learning." Applied Sciences 11.9 (2021): 4135.
+* T. -Y. Wang, F. -T. Chien and C. -K. Hsieh, "A New Sampling Scheme for Distributed Blind Spectrum Sensing Using Energy Detectors," ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020, pp. 5250-5254, doi: 10.1109/ICASSP40776.2020.9054544.
