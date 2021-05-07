@@ -9,7 +9,7 @@ redirect_from:
 ---
 Chi-Kai Hsieh received the B.S. degrees from the Department of Electronics Engineering, National Chiao Tung University, Hsinchu, Taiwan, in 2019. He is currently pursuing the Ph.D. degree with the Institute of Electronics, National Yang Ming Chiao Tung University, Hsinchu, Taiwan. His research interests include federated learning and wireless communication.
 
-Contact info
+Contact Info
 ======
 E-mail : mee29616243@gmail.com
 
