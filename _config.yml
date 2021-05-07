@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home Page"
 title_separator          : "-"
-name                     : &name "謝萁鍇 Chi-Kai Hsieh"
+name                     : &name "Chi-Kai Hsieh"
 description              : &description "personal description"
 url                      : https://chikaihsieh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -174,13 +174,13 @@ kramdown:
 
 
 # Collections
-collections:
+#collections:
   #teaching:
    # output: true
    # permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  #publications:
+   # output: true
+    #permalink: /:collection/:path/
  # portfolio:
   #  output: true
   #  permalink: /:collection/:path/
