@@ -15,9 +15,11 @@ E-mail : mee29616243@gmail.com
 
 Education
 ======
-1. 2015~2016: B.S. degree (Mathematics), National Tsing-Hua University, Taiwan \n
-2016~2019 : B.S. degree (Electronics Engineering), National Chiao-Tung University, Taiwan
-2019 ~ : Ph.D. degree (Electronics Engineering), National Chiao-Tung University, Taiwan
+1. 2015~2016: B.S. degree (Mathematics), National Tsing-Hua University, Taiwan 
+======
+2. 2016~2019 : B.S. degree (Electronics Engineering), National Chiao-Tung University, Taiwan
+======
+3. 2019 ~ : Ph.D. degree (Electronics Engineering), National Chiao-Tung University, Taiwan
 
 Honors & Award
 ======
