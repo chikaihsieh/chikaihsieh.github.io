@@ -28,3 +28,9 @@ Honors & Award
 * 2017 spring : 南亞科技獎學金
 * 2017 spring : 朱順一合勤獎學金
 
+Publications
+======
+*Energy-Efficient Power Allocation and User Association in Heterogeneous Networks with Deep Reinforcement Learning
+CK Hsieh, KL Chan, FT Chien
+Applied Sciences 11 (9), 4135
+*T. -Y. Wang, F. -T. Chien and C. -K. Hsieh, "A New Sampling Scheme for Distributed Blind Spectrum Sensing Using Energy Detectors," ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020, pp. 5250-5254, doi: 10.1109/ICASSP40776.2020.9054544.
