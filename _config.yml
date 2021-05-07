@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chi-Ka Hsieh"
+  name             : "Chi-Kai Hsieh"
   avatar           : "IMG_820322_2 (1).jpg"
   bio              : "email:mee29616243@gmail.com"
   location         : #"Location"
@@ -219,14 +219,14 @@ defaults:
       #share: true
       #comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+ # - scope:
+  #    path: ""
+  #    type: publications
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _portfolio
  # - scope:
   #    path: ""
